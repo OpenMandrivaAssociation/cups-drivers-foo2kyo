@@ -15,6 +15,7 @@ BuildRequires:	jbig-devel
 Conflicts:	cups-drivers = 2007
 Conflicts:	printer-utils = 2007
 Conflicts:	printer-filters = 2007
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 Printer and scanner drivers for the Kyocera Mita FS-1016 MFP under Linux.
