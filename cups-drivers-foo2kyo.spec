@@ -3,7 +3,7 @@
 Summary:	Printer and scanner drivers for the Kyocera Mita FS-1016 MFP under Linux
 Name:		cups-drivers-%{rname}
 Version:	0.1.0a
-Release:	20
+Release:	21
 Group:		System/Printing
 License:	GPLv2
 Url:		http://sourceforge.net/projects/kyo-fs1016mfp/
