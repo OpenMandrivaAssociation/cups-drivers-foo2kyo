@@ -6,7 +6,7 @@ Version:	0.1.0a
 Release:	26
 Group:		System/Printing
 License:	GPLv2
-Url:		http://sourceforge.net/projects/kyo-fs1016mfp/
+Url:		https://sourceforge.net/projects/kyo-fs1016mfp/
 Source0:	http://downloads.sourceforge.net/kyo-fs1016mfp/%{rname}-%{version}.tar.bz2
 Source1:	foo2kyo-cups.tar.bz2
 BuildRequires:	jbig-devel
